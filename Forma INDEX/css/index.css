@@ -1,0 +1,40 @@
+
+    .circulo {
+      margin-left: 40%;
+      width: 100px;
+      height: 100px;
+      border-radius: 150px;
+    }
+
+
+    .imgsize {
+
+      width: 100;
+      height: 100;
+      margin-top: 25vw;
+      border-radius: 150px;
+
+      border: 3px solid #FFA900;
+    }
+
+    .subir_ {
+      position: absolute;
+      margin-bottom: 9%
+    }
+   
+    
+    .background-overlay {
+      background: rgba(251, 4, 4, 0.6);
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+    .navbar {
+      box-shadow: 2px 2px 5px rgba(217, 255, 0, 1);
+      opacity: 0.8;
+    }
+    
+    .navbar .nav-item .nav-link {
+      color: #000000;
+    }
